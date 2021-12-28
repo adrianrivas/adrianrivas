@@ -1,6 +1,6 @@
 # Welcome 👋👋
 
-  ### I'm Adrian Landazuri, Web Developer and Data Analyst
+  ### I'm Adrian Landazuri, Backend Developer and Data Analyst
 
       * 🖥️🖥️ I'm currently working on Backend Development & Data Analytics
       * 💻💻 I'm using programming languages such as C#, C++, PHP, Python & Javascript.
