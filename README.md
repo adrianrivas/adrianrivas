@@ -7,7 +7,7 @@
       * 🔥🔥 I'm working with frameworks like Node.js and Laravel.
       * ✨✨ I'm usign technologies like Hadoop, Apache Spark, Hive & Pig.
       * 📙📙 I'm currently learning Typescript, Angular & React.
-      * 🤟🏽🤟🏽 I love the Data Modeling SQL & NoSQL.
+      * 🤟🏽🤟🏽 I love the SQL & NoSQL Data Modeling.
       * 📧📧 My email is adanlari06@gmail.com
 
 <div align="center">
