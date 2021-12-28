@@ -5,7 +5,7 @@
       * 🖥️🖥️ I'm currently working on Backend Development & Data Analytics
       * 💻💻 I'm using programming languages such as C#, C++, PHP, Python & Javascript.
       * 🔥🔥 I'm working with frameworks like Node.js and Laravel.
-      * ✨✨ I'm usign technologies like Hadoop, Apache Spark, Hive & Pig.
+      * ✨✨ I'm usign Big Data technologies like Hadoop, Apache Spark, Hive & Pig.
       * 📙📙 I'm currently learning Typescript, Angular & React.
       * 🤟🏽🤟🏽 I love the SQL & NoSQL Data Modeling.
       * 📧📧 My email is adanlari06@gmail.com
