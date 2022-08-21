@@ -1,13 +1,15 @@
 # Welcome 👋👋
 
-  ### I'm Adrian Landazuri, Backend Developer and Data Analyst
+  ### I'm Adrian Landazuri, Data Engineer, Data Analyst & Backend Developer
 
-      * 🖥️🖥️ I'm currently working on Backend Development & Data Analytics
-      * 💻💻 I'm using programming languages such as C#, C++, PHP, Python & Javascript.
-      * 🔥🔥 I'm working with frameworks like Node.js, Net 5 & Laravel.
-      * ✨✨ I'm usign Big Data technologies like Hadoop, Apache Spark, Hive & Pig.
-      * 📙📙 I'm currently learning Typescript, Angular & React.
-      * 🤟🏽🤟🏽 I love the SQL & NoSQL Data Modeling.
+      * 🖥️🖥️ I'm currently working on Data Engineering.
+      * 💻💻 I'm working with programming languages such as Python & R.
+      * ✨✨ I usually use Big Data technologies like Hadoop, Apache Spark, Hive & Pig.
+      * 🌀🌀 I'm currently using libraries like Pandas, Datatable, Sckit-learn, BeatifulSoup.
+      * 💘💘 I am passionate about the SQL & NoSQL Data Modeling.
+      * ❄️❄️ I'm currently working with Cloud Resources from Microsoft Azure & Google Cloud.
+      * 🔥🔥 I've worked with frameworks like Node.js, Net 5 & Laravel.
+      * 📙📙 I'm currently learning Typescript & Angular.
       * 📧📧 My email is adanlari06@gmail.com
 
 <div align="center">
