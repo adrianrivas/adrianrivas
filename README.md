@@ -1,6 +1,6 @@
 # Welcome 👋👋
 
-  ### I'm Adrian Landazuri, Data Engineer, Data Analyst & Backend Developer
+  ### I'm Adrian Landazuri, Data Engineer, Data Analyst & Analytics Engineer
 
       * 🖥️🖥️ I'm currently working on Data Engineering.
       * 💻💻 I'm working with programming languages such as Python & R.
