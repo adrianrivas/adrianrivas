@@ -3,14 +3,12 @@
   ### I'm Adrian Landazuri, Data Engineer, Data Analyst & Analytics Engineer
 
       * 🖥️🖥️ I'm currently working on Data Engineering.
-      * 💻💻 I'm working with programming languages such as Python & R.
+      * 💻💻 I'm working with programming languages such as Python, R, Javascript & PHP.
       * ✨✨ I'm working with Big Data technologies like Hadoop, Apache Spark, Hive & Pig.
       * 🌀🌀 I'm currently using libraries like Pandas, Datatable, Sckit-learn, BeatifulSoup, Matplotlib, Seaborn, Plotly.
-      * 💘💘 I am passionate about the SQL & NoSQL Databases.
+      * 💘💘 I am passionate about the SQL such as Oracle or SQL & NoSQL Databases like MongoDB.
       * ❄️❄️ I'm currently working with Cloud Resources from Microsoft Azure & Google Cloud.
-      * 💥💥 I like working with visualization tools such as Power Bi & Data Studio.
-      * 🔥🔥 I've worked with frameworks like Node.js, Net 5 & Laravel.
-      * 📙📙 I'm currently learning Typescript & Angular.
+      * 💥💥 I like working with visualization tools such as Power Bi, Looker Studio & Microstrategy.
       * 📧📧 My email is adanlari06@gmail.com
 
 <div align="center">
@@ -22,14 +20,9 @@
 ##
 ##### Languages and Tools
 <div align="left" style="display: flex">
-  <img height="70px" align="center" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"/>
   <img height="40px" align="center" style="margin-left: 20px;" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor"/>
