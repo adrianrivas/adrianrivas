@@ -5,8 +5,8 @@
       * 🖥️🖥️ I'm currently working on Data Engineering.
       * 💻💻 I'm working with programming languages such as Python, R, Javascript & PHP.
       * ✨✨ I'm working with Big Data technologies like Hadoop, Apache Spark, Hive & Pig.
-      * 🌀🌀 I'm currently using libraries like Pandas, Datatable, Sckit-learn, BeatifulSoup, Matplotlib, Seaborn, Plotly.
-      * 💘💘 I am passionate about the SQL such as Oracle or SQL & NoSQL Databases like MongoDB.
+      * 🌀🌀 I'm currently using libraries like Pandas, Pyspark, Datatable, Sckit-learn, BeatifulSoup, Requests, Matplotlib, Seaborn, Plotly.
+      * 💘💘 I am passionate about the SQL such as SQL Server, PostgreSQL, Oracle SQL & NoSQL Databases like MongoDB.
       * ❄️❄️ I'm currently working with Cloud Resources from Microsoft Azure & Google Cloud.
       * 💥💥 I like working with visualization tools such as Power Bi, Looker Studio & Microstrategy.
       * 📧📧 My email is adanlari06@gmail.com
